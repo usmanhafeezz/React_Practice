@@ -6,7 +6,8 @@ import "bootstrap/dist/js/bootstrap.min.js";
 
 import Navbar from './Components/Navbar';
 import SideBar from './Components/SideBar';
-
+import UseData from './Components/UseData';
+import Practice from './Components/Practice';
 function App() {
  
 
@@ -23,7 +24,11 @@ function App() {
     
     <div>
       <SideBar/>
+
     </div>
+    <UseData/>
+    <Practice/>
+
     </>
   )
 }

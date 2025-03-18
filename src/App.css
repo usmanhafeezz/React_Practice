@@ -1,54 +1,4 @@
-/* *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family:Arial, Helvetica, sans-serif;
-}
 
-
- .SideBar{
-    width: 250px;
-    height: 100vh;
-    background-color: #2c3e50;
-    color: white;
-    padding: 20px;
-    position: fixed;
-    top: 0;
-    left: 0;
-}
-.SideBar h2 {
-    font-size: 18px;
-    padding-bottom: 5px;
-}
-.SideBar ul {
-    list-style-type: none;
-    padding: 20px;
-}x
-.SideBar ul li {
-    list-style: none;
-  display: inline-block;
-  padding: 10px 30px;
-}
-.SideBar ul li a {
-    text-decoration: none;
-    cursor: pointer;
-
-} 
-.container {
-    display: flex;
-    flex-direction: column;
-}
-
-
- */
- /* body {
-    display: flex;
-    height: 100vh;
-} */
-/* .appContainer {
-    display: flex;
-    width: 100%;
-} */
  *{
     margin: 0;
     padding: 0;
@@ -109,3 +59,71 @@
     margin-left: 270px;
     padding: 20px;
 }
+
+
+
+/* Practice portion */
+/* 
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    width: auto;
+    margin: 10px 50px;
+    
+  }  */
+  /* nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 30px;
+  }
+  nav ul li a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 10px 20px;
+  }
+  
+  
+  .black a{
+    background-color: yellow;
+    color: black;
+    /* border-radius: 10px; */
+  /* }
+  .newColor{
+    background-color: aqua;
+    color: black;
+    width: 30%;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  button{
+    margin: 20px;
+    width: 10%;
+    border: none;
+    background-color:cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+  }
+  .btn{
+    background-color: yellow;
+    color: white;
+  
+  }  */
+  /* .change{
+    background-color: black;
+    color: white;
+    width: 30%;
+    padding: 10px 20px;
+    text-align: center; 
+  } */
+  
+  
+  
